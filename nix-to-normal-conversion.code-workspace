@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../temp/dotfiles"
+		},
+		{
+			"path": "../../temp/dots-hyprland"
+		}
+	],
+	"settings": {}
+}
